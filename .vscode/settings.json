@@ -1,0 +1,4 @@
+{
+    "python.autoComplete.extraPaths": ["C:\\Users\\Morten\\AppData\\Roaming\\Python\\Python310\\site-packages"],
+    "python.analysis.extraPaths": ["C:\\Users\\Morten\\AppData\\Roaming\\Python\\Python310\\site-packages"]
+}
