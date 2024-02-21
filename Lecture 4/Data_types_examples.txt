@@ -1,0 +1,70 @@
+
+Dansk:
+
+Nominal:
+
+    Farver (rød, blå, grøn, gul osv.)
+    Dyrearter (kat, hund, fugl, fisk osv.)
+    Politiske partier (Demokrater, Republikanere, Socialister osv.)
+    Typer af frugter (æble, banan, appelsin, drue osv.)
+    Civilstand (gift, single, skilt, enke/enkemand osv.)
+
+Ordinal:
+
+    Smerteskala (mild, moderat, alvorlig)
+    Uddannelsesniveau (grundskole, gymnasium, universitet)
+    Stilling i et løb (første, anden, tredje osv.)
+    Kundetilfredshed (lav, middel, høj)
+    Bedømmelse af bøger eller film (dårlig, middelmådig, god, fremragende)
+
+Interval:
+
+    Temperatur i Celsius eller Fahrenheit
+    Klassetrin (1., 2., 3. osv.)
+    Skala af intellektuel funktion (IQ-testresultater)
+    GPS-koordinater (bredde- og længdegrader)
+    Tid på en analog ur (timer, minutter, sekunder)
+
+Ratio:
+
+    Alder (eksisterende i år)
+    Vægt (i kilogram eller pund)
+    Højde (i centimeter eller tommer)
+    Indkomst (i valuta som dollars, euro osv.)
+    Antal børn i en familie (heltal, da 0 betyder ingen børn)
+
+
+English:
+
+Nominal Data:
+
+    Colors (e.g., red, blue, green)
+    Types of fruit (e.g., apple, banana, orange)
+    Marital status (e.g., single, married, divorced)
+    Animal species (e.g., dog, cat, bird)
+    Types of vehicles (e.g., car, truck, motorcycle)
+
+Ordinal Data:
+
+    Educational attainment (e.g., high school diploma, bachelor's degree, master's degree)
+    Levels of agreement (e.g., strongly disagree, disagree, neutral, agree, strongly agree)
+    Customer satisfaction ratings (e.g., very dissatisfied, dissatisfied, neutral, satisfied, very satisfied)
+    Economic status (e.g., lower class, middle class, upper class)
+    Grades (e.g., A, B, C, D, F)
+
+Interval Data:
+
+    Temperature in Celsius or Fahrenheit
+    Calendar dates (e.g., January 1st, February 15th)
+    IQ scores
+    Years (e.g., 1990, 2005, 2020)
+    pH level
+
+Ratio Data:
+
+    Height in centimeters or inches
+    Weight in kilograms or pounds
+    Time in seconds, minutes, hours
+    Distance in meters, kilometers, miles
+    Income in dollars
+
