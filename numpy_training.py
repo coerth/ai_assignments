@@ -5,13 +5,13 @@ import numpy as np
 #print out cpu time
 import time
 
-
 #%%
+
 
 # getting a random number
+rand = random.random()
 
 #%%
-rand = random.random()
 start_time = time.time()
 
 # Python list: sin of 100,000,000 random numbers
