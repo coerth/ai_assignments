@@ -48,3 +48,13 @@ clf.fit(X_train, y_train)
 end = time.time()
 
 # %%
+
+# test the model
+from sklearn.metrics import accuracy_score
+
+y_pred = clf.predict(X_test)
+accuracy = accuracy_score(y_test, y_pred)
+print(f'Accuracy: {accuracy}')
+
+print(f'Time taken: {end - start}')
+# %%
